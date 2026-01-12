@@ -17,5 +17,5 @@ NOTES:
 - This will only occur the first time the page is loaded, after that the redirect works as expected
 
 
-![Screenshot-01](images/screenshot-01.png)
-![Screenshot-01](images/screenshot-02.png)
+![Screenshot-01](images/Screenshot-01.png)
+![Screenshot-01](images/Screenshot-02.png)
