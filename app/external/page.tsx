@@ -10,8 +10,8 @@ export default function Page() {
   return (
     <ExternalRedirectContainer 
       action={redirectExternallyWithSameHost} 
-      expectedRedirectUrl={"http://localhost:3000/external-page-with-same-host"}
-      actualRedirectUrl={"http://localhost:3000/redirect/external-page-with-same-host"}
+      expectedRedirectUrl="http://localhost:3000/external-page-with-same-host"
+      actualRedirectUrl="http://localhost:3000/redirect/external-page-with-same-host"
       delayInMilliseconds={10000}
     />
   );
