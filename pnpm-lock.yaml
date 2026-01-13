@@ -34,8 +34,8 @@ importers:
         specifier: ^9
         version: 9.39.2(jiti@2.6.1)
       eslint-config-next:
-        specifier: 16.1.1
-        version: 16.1.1(@typescript-eslint/parser@8.52.0(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3))(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3)
+        specifier: 16.1.0
+        version: 16.1.0(@typescript-eslint/parser@8.52.0(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3))(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3)
       tailwindcss:
         specifier: ^4
         version: 4.1.18
@@ -354,8 +354,8 @@ packages:
   '@next/env@16.1.0':
     resolution: {integrity: sha1-tTmMR2GXifGQIR6Q4+Ays9hKZFg=}
 
-  '@next/eslint-plugin-next@16.1.1':
-    resolution: {integrity: sha1-VE4cpHdSh+I2n322uOgcdS81A18=}
+  '@next/eslint-plugin-next@16.1.0':
+    resolution: {integrity: sha1-8sZtM9S/fclu7DO/VY03eBvDlCw=}
 
   '@next/swc-darwin-arm64@16.1.0':
     resolution: {integrity: sha1-t73tORHzX1hSQykvhfY8PvfU/YU=}
@@ -956,8 +956,8 @@ packages:
     resolution: {integrity: sha1-FLqDpdNz49MR5a/KKc9b+tllvzQ=}
     engines: {node: '>=10'}
 
-  eslint-config-next@16.1.1:
-    resolution: {integrity: sha1-U2rgAWrCRU4n1iV3XglC/0YDcRY=}
+  eslint-config-next@16.1.0:
+    resolution: {integrity: sha1-wAOrYHyEL+0PNhyttFiZ2sVKNwc=}
     peerDependencies:
       eslint: '>=9.0.0'
       typescript: '>=3.3.1'
@@ -2242,7 +2242,7 @@ snapshots:
 
   '@next/env@16.1.0': {}
 
-  '@next/eslint-plugin-next@16.1.1':
+  '@next/eslint-plugin-next@16.1.0':
     dependencies:
       fast-glob: 3.3.1
 
@@ -2871,9 +2871,9 @@ snapshots:
 
   escape-string-regexp@4.0.0: {}
 
-  eslint-config-next@16.1.1(@typescript-eslint/parser@8.52.0(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3))(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3):
+  eslint-config-next@16.1.0(@typescript-eslint/parser@8.52.0(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3))(eslint@9.39.2(jiti@2.6.1))(typescript@5.9.3):
     dependencies:
-      '@next/eslint-plugin-next': 16.1.1
+      '@next/eslint-plugin-next': 16.1.0
       eslint: 9.39.2(jiti@2.6.1)
       eslint-import-resolver-node: 0.3.9
       eslint-import-resolver-typescript: 3.10.1(eslint-plugin-import@2.32.0)(eslint@9.39.2(jiti@2.6.1))
